@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"ord",
+				"order\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "NetlifyCMS/layouts/index.html",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAPgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/don19/Documents/KDAB/Website/Website/2021-update/Whitepapers/TL - KDAB - C++20 whitepaper v4.html",
+		"/Users/don19/Documents/KDAB/Kuesa/kuesa-marketing/Asia-marketing-plan.txt",
+		"/Users/don19/Desktop/passwords.scpt",
+		"/Users/don19/Documents/KDAB/Kuesa/kuesa-marketing/Some feedback from Nicolas.txt",
+		"/Users/don19/Documents/KDAB/Meetings/Nick-Park-kick-off.txt",
+		"/Users/don19/strapi/docker-compose.yaml",
+		"/Users/don19/Documents/KDAB/Website/Website/Documentation/Agenda18-11-20.txt",
+		"/Users/don19/Documents/KDAB/Kuesa/kuesa.com/Resources/Kuesa-plugins-tools.md",
+		"/Users/don19/Documents/KDAB/Website/Website/2021-update/code/qtemb_qtdd_box.html",
+		"/Users/don19/Documents/KDAB/Website/Website/kuesa.jp/qtdd_qtemb_box-code.html",
+		"/Users/don19/Sites/phpMyAdmin-4.7.6-all-languages/config.sample.inc.php",
+		"/Users/don19/Downloads/phpMyAdmin-4.7.6-all-languages/config.sample.inc.php",
+		"/Users/don19/Documents/KDAB/Website/Website/Documentation/image-gallery-replacement",
+		"/Users/don19/Documents/KDAB/Website/Website/Documentation/Agenda11-11-21.txt",
+		"/Users/don19/Documents/KDAB/Website/Website/Documentation/covid-19-callout.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/js/randomUrl.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/contents.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/notesBeyond/index.shtml",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/centralWorldProblem.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/effortlessMeditationBeyondAuthority.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/ExploringTotalAwarenessWithinAndBeyondKrishnamurti.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/extraordinaryGhost.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/focusingAwarenessOfThePresent.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/GoingBeyondConditionedAuthority.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/mainArticle.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/perception.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/placeOfKrishnamurti.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/poorClever.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/SearchBeyondPrejudice.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/sinceYouAreNotSerious.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/ThePossibilityThatPadmaSambhava.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/TheTruthBeyondTruth.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/ThreePerspectives.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/Krishnoracle/Articles/TruthOfMeditation.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/BasicEarth/get_random1.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Vernoracle/vernon1.hyperesources/get_random3a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Panic/index.hyperesources/get_random1P.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Panic/get_random1P.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/links.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/css/links-styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/RandomOracleCode/random.js",
+		"/Users/don19/Documents/Oracles/new-tests19/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Sampo/img/Title-Sampo.svg",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/js/script.js",
+		"/Users/don19/Documents/KDAB/Website/Website/NewsletterSignup/old-form-code.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/css/style.css",
+		"/Users/don19/Documents/KDAB/Website/Website/NewsletterSignup/new-form-code.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Delphi/formatText.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/js/oracle.js",
+		"/Users/don19/Downloads/Ginko/styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Notezen/img/ZenMaster2.png",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/index (original 2).html",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/index (original).html",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/carlos2.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/js/script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/carlos3.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/GuruRimpoche/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/carlos3.hyperesources/carlos3_hype_generated_script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/carlos/carlos.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Carlos/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadguru/js/script.js",
+		"/Users/don19/Documents/KDAB/Website/Website/2020_update/Training/Title: Qt's Model:View framework for widget develo",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadguru/css/nav-styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadguru/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadguru/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadguru/sadguru/sadguru.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Sadhguru/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/GuruRimpoche/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Universal/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Universal/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/GuruRimpoche/js/script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/GuruRimpoche/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Universal/js/script.js",
+		"/Users/don19/Library/Application Support/Sublime Text 3/Packages/User/customer-image.sublime-snippet",
+		"/Users/don19/Documents/Oracles/new-tests19/Delphi/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Delphi/js/script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Delphi/index.html",
+		"/Users/don19/Documents/Household/Fiber/chatTelia-050220.txt",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/get_random1a 2.php",
+		"/Users/don19/Documents/Oracles/new-tests19/Delphi/source/oracle-text",
+		"/Users/don19/Documents/Oracles/new-tests19/analytics.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/img/OshoCropped.png",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/js/script.js",
+		"/Users/don19/Library/Application Support/Sublime Text 3/Packages/User/customers.sublime-snippet",
+		"/Users/don19/Documents/Oracles/new-tests19/SufiMaster/js/script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/SufiMaster/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/code/animated-text/anim-text.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Osho/code/animated-text/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/SufiMaster/get_random1a.php",
+		"/Users/don19/Documents/Oracles/new-tests19/SufiMaster/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/js/oracle.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/css/reset.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/css/nav-styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Sample Media Queries/media-query.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/js/script.js",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/css/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Diffs/get_random1aOld.php",
+		"/Users/don19/Documents/Oracles/Movies/comment-chile-maharaj-youtube.txt",
+		"/Users/don19/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Amma-test",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/sftp-config.json",
+		"/Users/don19/Documents/Books/Kenneth-Grant/Grant_-_Outside_the_Circles_of_Time.txt",
+		"/Users/don19/Documents/Current/PurpleOnyx.net/purpleonyx.net .ZN9D:0e",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/src/nav-styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/sticky-footer2-equal-columns-flexbox/src/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/Amma/dist/index.html",
+		"/Users/don19/Downloads/css-off-canvas-navigation-using-css-pseudo-class/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/sticky-footer2-equal-columns-flexbox/src/nav-styles.css",
+		"/Users/don19/Documents/Oracles/new-tests19/sticky-footer2-equal-columns-flexbox/src/index.html",
+		"/Users/don19/Documents/Oracles/new-tests19/sticky-footer2-equal-columns-flexbox/dist/style.css",
+		"/Users/don19/Documents/Oracles/new-tests19/backgrounds/css/amma.css",
+		"/Users/don19/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/don19/Documents/Current/Warp2/Paintings/images/ReliableUncertainty.png",
+		"/Users/don19/Documents/Current/Warp2/Paintings/index.htm",
+		"/Users/don19/Documents/Oracles/new-tests19/backgrounds/js/script.js",
+		"/Users/don19/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/don19/Documents/Current/Fountain-of-Nothingness.net/Your-Generated-Divi-child-theme-template-by-DiviCake/functions.php",
+		"/Users/don19/.ssh/known_hosts"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NetlifyCMS/layouts/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "NetlifyCMS.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"new-tests19/Sample Media Queries/media-query.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
